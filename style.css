@@ -1,0 +1,14 @@
+[class *= 'col'] {
+    background-color: rgb(33, 51, 51);
+    padding: 1rem;
+    border: 2px solid black;
+}
+
+.lead{
+    font-size: 5px;
+}
+
+.card-img-top{
+    width: 100px;
+    height: 100px;
+}
